@@ -2,7 +2,7 @@
 ##Proposed working project title
 Shifting Tornado Risk in the United States and Emerging Insurance Exposure
 
-##Brief background
+##Brief_background
 Tornadoes have traditionally been most prevalent in the Great Plains region called "Tornado Alley" in the United States. However, recent research shows that tornado activity may be shifting eastward toward the Southeast's "Dixie Alley" region. This shift would have implications for the insurance industry with impacts to future risk and loss given the changing patterns.
 
 ##Question
